@@ -1,4 +1,4 @@
-#Integrador Js
+# Integrador Js
 Este proyecto es una aplicación web construida con HTML5, CSS y JavaScript utilizando Vite como el build tool. A continuación, se describen los pasos para clonar el repositorio y ejecutar el proyecto localmente.
 
 Requisitos
